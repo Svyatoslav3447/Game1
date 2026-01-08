@@ -1,0 +1,4 @@
+repository "Mother2/Game1@7972133667961@cloud"
+  path "/"
+    br "/main"
+    co "/main"
